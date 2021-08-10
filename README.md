@@ -8,13 +8,13 @@ The real-world data often has a lot of missing values. The cause of missing valu
 >Mean/Median/mode Imputation<br>
 >Capturing NAN values with a new Feature Imputation<br>
 >End of Distribution Imputation<br>
->Arbitrary Value Imputation
+>Arbitrary Value Imputation<hr>
 
 
 
 ### 2.Categorical Imputation:
 >Frequent Category Imputation<br>
->Capturing NAN by adding a new Feature<hr>
->Adding a Missing Category<hr>
+>Capturing NAN by adding a new Feature<br>
+>Adding a Missing Category<br>
  
 
