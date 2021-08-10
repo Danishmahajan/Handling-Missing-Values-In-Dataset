@@ -8,7 +8,10 @@ The real-world data often has a lot of missing values. The cause of missing valu
 >Mean/Median/mode Imputation<br>
 >Capturing NAN values with a new Feature Imputation<br>
 >End of Distribution Imputation<br>
->Arbitrary Value Imputation<hr>
+>Arbitrary Value Imputation
+
+<hr>
+
 
 
 
