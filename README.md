@@ -13,8 +13,8 @@ The real-world data often has a lot of missing values. The cause of missing valu
 
 
 ### 2.Categorical Imputation:
->Frequent Category Imputation
->Capturing NAN by adding a new Feature
->Adding a Missing Category
+>Frequent Category Imputation<br>
+>Capturing NAN by adding a new Feature<hr>
+>Adding a Missing Category<hr>
  
 
