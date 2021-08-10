@@ -5,3 +5,6 @@ The real-world data often has a lot of missing values. The cause of missing valu
 ### Some Imputations Methods Are :<br>
 #### 1.Continous Variable Imputations:
      (i)Random Imputation
+     
+     ![image](https://user-images.githubusercontent.com/64760966/128884081-0a066979-24a0-403a-9371-e1d2793199fd.png)
+
