@@ -15,7 +15,7 @@ The real-world data often has a lot of missing values. The cause of missing valu
 
 
 
-### 2.Categorical Imputation:
+### 2.Categorical Variable Imputation:
 >Frequent Category Imputation<br>
 >Capturing NAN by adding a new Feature<br>
 >Adding a Missing Category<br>
